@@ -24,3 +24,13 @@ Happy Coding!!
 [:point_right: **Week 6 - Lists**](https://github.com/CrypticFate5/REC-Python-Digital-Cafe/tree/main/Week%206)
 
 
+[:point_right: **Week 7 - Tuples**](https://github.com/CrypticFate5/REC-Python-Digital-Cafe/tree/main/Week%207)
+
+
+[:point_right: **Week 8 - Sets**](https://github.com/CrypticFate5/REC-Python-Digital-Cafe/tree/main/Week%208)
+
+
+[:point_right: **Week 9 - Dictionary**](https://github.com/CrypticFate5/REC-Python-Digital-Cafe/tree/main/Week%209)
+
+
+[:point_right: **Week 10 - Functions**](https://github.com/CrypticFate5/REC-Python-Digital-Cafe/tree/main/Week%2010)
